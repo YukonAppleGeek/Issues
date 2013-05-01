@@ -1,28 +1,26 @@
 Issues
 ======
-This is a public repository for reporting issues, or feature requests for Overcast Network services.
+This is a public repository for reporting bugs or requesting features on Overcast Networks' services. If you find any high threat bugs or exploits you are to privately email support@oc.tc, **do not** report them publicly.
 
 ## Submitting
-Before submitting a issue search past issues to ensure the issue has not been reported before. Once you have submitted a issue wait for a response, **do not** "bump" or "nudge" issues to get a reply. All issues will be addressed.
+Before submitting an issue search current issues to look for possible duplicates. Once you have submitted an issue wait for a response, **do not** "bump" or "nudge" issues to get a reply. All issues will be addressed.
 
 ## Formating
-Issues should be formated with the guidelines below to ensure the issue is addressed. Issues not following guidelines may be rejected and asked follow guidelines.
+Issues should be formated with the guidelines below for easy and clear reading. Issues not following guidelines may be rejected and asked to follow guidelines.
 
 ### Title
-> [Issue Type] Brief summary  
-> Issue Type can be F for feature, B for bug.
->
-> Example  
-> [F] Show number of blocks mined on profiles
+> A brief summary of the issue.  
+> Example: User avatars not displaying correctly.
 
 ### Description
 > #### The Issue:
-> Paragraphs explaining the issue.
+> Paragraph(s) explaining the issue.
 >
 > #### Expected Outcome
-> The expected/wanted outcome.
+> The expected or wanted outcome.
 >
 > #### Steps to Reproduce
 > Steps to reproduce if applicable for the issue.
+>
 > #### Other Info
 > Other info pertaining to the issue.
