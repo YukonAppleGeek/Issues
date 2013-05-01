@@ -16,11 +16,11 @@ Issues should be formated with the guidelines below for easy and clear reading. 
 > #### The Issue:
 > Paragraph(s) explaining the issue.
 >
-> #### Expected Outcome
+> #### Expected Outcome:
 > The expected or wanted outcome.
 >
-> #### Steps to Reproduce
+> #### Steps to Reproduce:
 > Steps to reproduce if applicable for the issue.
 >
-> #### Other Info
+> #### Other Info:
 > Other info pertaining to the issue.
