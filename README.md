@@ -1,26 +1,56 @@
 Issues
 ======
-This is a public repository for reporting bugs or requesting features on Overcast Networks' services. If you find any high threat bugs or exploits you are to privately email support@oc.tc, **do not** report them publicly.
+
+This is a public repository for reporting bugs and requesting features relating to Overcast Network.
+
+### Important:
+
+If you find a potential exploit or vulnerability, please exercise reasonable disclosure:
+
+1. Privately [contact Overcast Network staff](mailto:support@oc.tc?subject=Important%20security%20vulnerability) about the issue.
+2. **Do not** publicly disclose the issue immediately (give Overcast Network staff adequate time to respond to and address your inquiry before you disclose the vulnerability publicly).
 
 ## Submitting
-Before submitting an issue search current issues to look for possible duplicates. Once you have submitted an issue wait for a response, **do not** "bump" or "nudge" issues to get a reply. All issues will be addressed.
 
-## Formating
-Issues should be formated with the guidelines below for easy and clear reading. Issues not following guidelines may be rejected and asked to follow guidelines.
+Issues can be [submitted](https://github.com/OvercastNetwork/Issues/issues/new) at the [issue tracker](https://github.com/OvercastNetwork/Issues/issues).
+
+### Do:
+
+* Search the issue tracker to ensure that your issue is not a duplicate
+* Verify the validity and/or plausibility of your issue
+* Be clear and concise in your description
+* Take advantage of [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/)--it's awesome, and it makes your submission that much better! :smile:
+
+### Do not:
+
+* Bump issues to receive a response (all issues are acknowledged)
+* Argue unproductively in an issue's comments
+* Re-create an issue you feel unjustly closed
+
+## Formatting
+
+It is recommended that issues are formatted using the following template for maximum clarity and readability:
 
 ### Title
-> A brief summary of the issue.  
-> Example: User avatars not displaying correctly.
+
+Provide a brief summary of the issue. Your title should allow users browsing the tracker to grasp the gist of your issue at a glance.
+
+**Example**:
+
+> Avatars not displaying correctly in friends list
 
 ### Description
-> #### The Issue:
-> Paragraph(s) explaining the issue.
->
-> #### Expected Outcome:
-> The expected or wanted outcome.
->
-> #### Steps to Reproduce:
-> Steps to reproduce if applicable for the issue.
->
-> #### Other Info:
-> Other info pertaining to the issue.
+
+Try to separate your description into four different sections, if possible:
+
+1. **The issue**
+
+    This section should provide a detailed explanation of the issue.
+
+2. **Steps to reproduce**
+
+    If applicable, this section should provide a detailed list of steps needed to reproduce the issue.
+
+3. **Miscellaneous information**
+
+    Information that doesn't necessarily fit into any other sections. Common examples are attachments, images, or disclaimers.
