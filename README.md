@@ -41,7 +41,7 @@ Provide a brief summary of the issue. Your title should allow users browsing the
 
 ### Description
 
-Try to separate your description into four different sections, if possible:
+Try to separate your description into three different sections, if possible:
 
 1. **The issue**
 
